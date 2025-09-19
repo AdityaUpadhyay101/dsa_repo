@@ -26,7 +26,7 @@ int ms(int n, int x,int y,int z){
    // cout<< "give nums"<<endl;
     // cin>> n>>x>>y>>z;
      
-    int m=ms(5,5,3,2);
+    int m=ms(5,1,3,2);
     cout<< "maximus segment possible is "<< m<<endl;
 
   return 0;
