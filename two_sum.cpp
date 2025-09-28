@@ -27,7 +27,7 @@ int main() {
     int target1 = 9;
     vector<int> result1 = solution.twoSum(nums1, target1);
 
-      cout << "Result: [" << result1[0] << ", " << result1[1] << "]" << endl;
+      cout << "R [" << result1[0] << ", " << result1[1] << "]" << endl;
     cout << "Verification: " << nums1[result1[0]] << " + " << nums1[result1[1]] 
          << " = " << nums1[result1[0]] + nums1[result1[1]] << endl;
     
