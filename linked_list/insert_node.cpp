@@ -28,7 +28,7 @@ public:
         head = NULL;
     }
 
-    // ----------------------
+    // ---------------------
     // Insert at end
     // ----------------------
     void insert(int value) {
